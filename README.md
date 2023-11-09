@@ -1,6 +1,6 @@
 # Halki 4x5 ortholinear split
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Stidgit/halki/main/doc/assets/halki1.png" alt="4x5 split keyboard" width="700" height="650"/>
+  <img src="https://raw.githubusercontent.com/Stidgit/halki/main/doc/assets/halki1.png" alt="4x5 split keyboard" width="700" height="610"/>
 </p>
 Halki is my first rendition of a split keyboard. The initial concept came from my previous project [Tukki](https://github.com/Stidgit/tukki)
 
